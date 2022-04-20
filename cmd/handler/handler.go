@@ -1,7 +1,7 @@
 package handler
 
 import (
-	"kube2/internal/models"
+	"github.com/Alisher-Mukaramov/Kube2/internal/models"
 	"net/http"
 )
 

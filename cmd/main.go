@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/Alisher-Mukaramov/Kube2/cmd/handler"
 	"github.com/gorilla/mux"
-	"kube2/cmd/handler"
 	"net/http"
 )
 

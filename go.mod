@@ -1,4 +1,4 @@
-module kube2
+module github.com/Alisher-Mukaramov/Kube2
 
 go 1.17
 
