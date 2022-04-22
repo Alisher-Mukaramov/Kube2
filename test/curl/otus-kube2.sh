@@ -1,0 +1,1 @@
+curl --location --request GET 'http://localhost/otusapp/alisher/health'
